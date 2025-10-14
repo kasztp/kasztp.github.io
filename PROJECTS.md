@@ -14,6 +14,21 @@ This document outlines my most important professional & personal projects across
 | **Tech Stack** | **Azure** (ADLS Gen2, AI Document Intelligence, AI Content Understanding, Azure OpenAI)<br>**Databricks** (Delta Lake, Unity Catalog, Vector Search, Jobs & Workflows, REST API)<br>**Python**<br>**SQL** |
 | **Role(s)** | **ML Engineer**, **Data Engineer**, **Data Scientist**<br>**Databricks Solution Architect**<br>Note: Roles were often overlapping, sometimes on parallel projects. |
 
+---
+
+## Project Health Status Analyzer
+
+| Category | Details |
+| :--- | :--- |
+| **Business Domain** | **AI-powered project health analysis** |
+| **Project Description** | Developed an AI tool that analyzes projects for health metrics based on textual summary of project status.<br>Utilizes configurable **LLM** backend and **RAG** (with ChromaDB) for intelligent insights and recommendations. |
+| **Tech Stack** | **Python** (FastAPI, LangChain, PyTest)<br>**LLM APIs** (OpenAI, Gemini, LiteLLM)<br>**ChromaDB** for RAG<br>**Bootstrap** for UI<br>**GitHub Actions** for CI/CD:<br>UV, Ruff, MyPy, CodeCov, Docker |
+| **Role(s)** | **AI Engineer** |
+
+---
+
+## Databricks ML POC
+
 | Category | Details |
 | :--- | :--- |
 | **Business Domain** | **PoC for ML** use cases **on Databricks** |
@@ -82,7 +97,6 @@ This document outlines my most important professional & personal projects across
 
 ### AI & LLM
 
-- **Project Health Status Analyzer**: An AI-powered tool to analyze and assess the health status of projects using LLM & RAG (with ChromaDB).
 - **AI CV Generator**: A generative AI application for creating customized CVs/resumes based on user input and templates.
 - **AWS Deepracer**: Autonomus racing of robocars based on reinforcement learning. (Participated in the official leauge for more than 5 years.)
 
