@@ -18,6 +18,9 @@ Leverages over a decade of prior experience in Technical Recruitment and Talent 
 |:--------------:|:------:|:---------:|
 | <img src="https://templates.images.credential.net/1710180475599507363035848686722.png" alt="Databricks Certified Data Engineer Professional Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Spark_Developer_Associate.png" alt="Databricks Certified Associate Spark Developer Badge" width="130" height="130"/> | <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Gen_Al_LLM_on_Databricks_pre-sales.png" alt="Databricks Gen AI & LLM Pre-sales Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Generative_AI_Fundamentals.png" alt="Databricks Gen AI Fundamentals Badge" width="130" height="130"/> | <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Advantages_of_Data_Interoperability_with_SAP_Leadership.png" alt="Databricks SAP Interoperability Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Cloud_Data_Warehouse_Migration_pre-sales.png" alt="Databricks Cloud Data Warehouse Migration Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Spark_Migration_pre-Sales_Verified.png" alt="Databricks Cloud Native Spark Migration Badge" width="130" height="130"/> |
 
+**Project List:**
+- [Key professional and personal projects.](PROJECTS.md)
+
 **Current Stack:**
 
 * Python, Spark, SQL, Delta Lake, Databricks
