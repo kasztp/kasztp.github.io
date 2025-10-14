@@ -16,7 +16,7 @@ This document outlines my most important professional & personal projects across
 
 | Category | Details |
 | :--- | :--- |
-| **Business Domain** | PoC for ML use cases on Databricks. |
+| **Business Domain** | **PoC for ML** use cases **on Databricks** |
 | **Project Description** | Proof of concept for an Enterprise client of Databricks.<br><br>Showcasing machine learning workflows using Databricks platform, including model training, deployment, and integration with various data sources. |
 | **Tech Stack** | **Databricks** (MLflow, Delta Lake, Unity Catalog)<br>**Python**<br>**Apache Spark** |
 | **Role(s)** | **Data engineer** |
