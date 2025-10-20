@@ -27,6 +27,17 @@ This document outlines my most important professional & personal projects across
 
 ---
 
+## Datapao RAG framework development
+
+| Category | Details |
+| :--- | :--- |
+| **Business Domain** | LLM, RAG, and Vector Database related solution development |
+| **Project Description** | As part of Datapao's Data Science Group we built an in-house RAG framework with end-to-end support for deploying RAG pipelines using Databricks technologies.<br><br>My main focus was integrating various vector databases and vector search providers (e.g., ChromaDB, FAISS, Databricks Vector Search) and providing abstractions above the providers to improve developer experience. |
+| **Tech Stack** | **Vector Databases & libraries** (Databricks Vector Search, ChromaDB, FAISS)<br>**Python**<br>**Apache Spark** |
+| **Role(s)** | **ML Engineer**<br>**Backend Developer** |
+
+---
+
 ## Databricks ML POC
 
 | Category | Details |
@@ -88,17 +99,17 @@ This document outlines my most important professional & personal projects across
 | :--- | :--- |
 | **Business Domain** | **Slack integrated Databricks automation**. |
 | **Project Description** | Developed a **Slack Bot** with integrated **Databricks cluster management capabilities** and notifications for users to better control company-wide Databricks resource consumption. (As part of a team. I was responsible for Databricks API integration and end 2 end Cluster management workflow.) |
-| **Tech Stack** | **Databricks** (Delta Lake, Unity Catalog, REST API) , **Python** , **Slack Python SDK** |
+| **Tech Stack** | **Databricks** (Delta Lake, Unity Catalog, REST API)<br>**Python**<br>**Slack Python SDK** |
 | **Role(s)** | **Full-stack developer** |
 
 ---
 
 ## Open Source Contributions
-
-- [Chispa PR #141](https://github.com/MrPowers/chispa/pull/141): Contribution to the Chispa testing library for PySpark.
-- [CodersRank Libraries PR #157](https://github.com/codersrank-org/libraries/pull/157): Add PySpark support to CodersRank libraries repository.
-- [CodersRank Repo Info Extractor PR #192](https://github.com/codersrank-org/repo_info_extractor/pull/192): Add Julia lnaguage support to the CodersRank repository info extractor.
-- [Apache Spark PR #43190](https://github.com/apache/spark/pull/43190): Contribution to the Apache Spark project (documentation).
+- [Chispa PR #141](https://github.com/MrPowers/chispa/pull/141) (Oct 24, 2024): Added an ignore_columns option to dataframe_comparer.py to improve dataframe comparison flexibility in tests.
+- [Apache Spark PR #43190](https://github.com/apache/spark/pull/43190) (Oct 2, 2023): Fixed Python sample code in StreamingQueryListener docs (documentation fix).
+- [CodersRank Libraries PR #157](https://github.com/codersrank-org/libraries/pull/157) (Apr 12, 2023): Added PySpark support to CodersRank libraries repository.
+- [CodersRank Repo Info Extractor PR #192](https://github.com/codersrank-org/repo_info_extractor/pull/192) (Jul 22, 2021): Added Julia language support to the repo info extractor.
+- [Flask Zappa Tutorial PR #2](https://github.com/ProfessorKazarinoff/flask-zappa-tutorial/pull/2) (Jul 22, 2021): Added "lambda:DeleteFunctionConcurrency" to zappa_security_policy.json (small security policy fix).
 
 ---
 
