@@ -93,6 +93,15 @@ This document outlines my most important professional & personal projects across
 
 ---
 
+## Open Source Contributions
+
+- [Chispa PR #141](https://github.com/MrPowers/chispa/pull/141): Contribution to the Chispa testing library for PySpark.
+- [CodersRank Libraries PR #157](https://github.com/codersrank-org/libraries/pull/157): Add PySpark support to CodersRank libraries repository.
+- [CodersRank Repo Info Extractor PR #192](https://github.com/codersrank-org/repo_info_extractor/pull/192): Add Julia lnaguage support to the CodersRank repository info extractor.
+- [Apache Spark PR #43190](https://github.com/apache/spark/pull/43190): Contribution to the Apache Spark project (documentation).
+
+---
+
 ## Personal Projects
 
 ### AI & LLM
