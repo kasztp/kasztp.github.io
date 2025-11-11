@@ -11,12 +11,12 @@
 ---
 ## Summary
 
-ML and Data Engineer with experience building solutions using Databricks, Spark, and Python. Proven ability in project management and team leadership.
+AI/ML and Data Engineer with experience building solutions using Databricks, Spark, and Python. Proven ability in project management and team leadership.
 Leverages over a decade of prior experience in Technical Recruitment and Talent Acquisition leadership before transitioning back into a hands-on technical role. Committed to continuous learning and getting things done.
 
 | **Databricks** | **AI** | **Other** |
 |:--------------:|:------:|:---------:|
-| <img src="https://templates.images.credential.net/1710180475599507363035848686722.png" alt="Databricks Certified Data Engineer Professional Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Spark_Developer_Associate.png" alt="Databricks Certified Associate Spark Developer Badge" width="130" height="130"/> | <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Gen_Al_LLM_on_Databricks_pre-sales.png" alt="Databricks Gen AI & LLM Pre-sales Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Generative_AI_Fundamentals.png" alt="Databricks Gen AI Fundamentals Badge" width="130" height="130"/> | <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Advantages_of_Data_Interoperability_with_SAP_Leadership.png" alt="Databricks SAP Interoperability Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Cloud_Data_Warehouse_Migration_pre-sales.png" alt="Databricks Cloud Data Warehouse Migration Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Spark_Migration_pre-Sales_Verified.png" alt="Databricks Cloud Native Spark Migration Badge" width="130" height="130"/> |
+| <img src="https://templates.images.credential.net/1710180475599507363035848686722.png" alt="Databricks Certified Data Engineer Professional Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Spark_Developer_Associate.png" alt="Databricks Certified Associate Spark Developer Badge" width="130" height="130"/> | <img src="https://www.databricks.com/sites/default/files/2025-10/associate-badge-gen-ai.png" alt="Databricks Gen AI Associate Badge" width="130" height="130"/><br><img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Gen_Al_LLM_on_Databricks_pre-sales.png" alt="Databricks Gen AI & LLM Pre-sales Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Generative_AI_Fundamentals.png" alt="Databricks Gen AI Fundamentals Badge" width="130" height="130"/> | <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Advantages_of_Data_Interoperability_with_SAP_Leadership.png" alt="Databricks SAP Interoperability Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Cloud_Data_Warehouse_Migration_pre-sales.png" alt="Databricks Cloud Data Warehouse Migration Badge" width="130" height="130"/> <img src="https://raw.githubusercontent.com/kasztp/ai_cv_generator/main/data/img/Spark_Migration_pre-Sales_Verified.png" alt="Databricks Cloud Native Spark Migration Badge" width="130" height="130"/> |
 
 **Project List:**
 - [Key professional and personal projects.](PROJECTS.md)
@@ -34,10 +34,21 @@ Talent Acquisition Professional (Recruitment Manager, Trainer, Consultant)
 ---
 ## Technology Experience
 
+### HTEC
+
+**AI Engineer, Data Engineer**
+*July 2025 - present*
+*Budapest, Hungary*
+
+- Internal RAG application development
+- Databricks-specific expertise sharing across the organization
+- Interviewing Data Engineers
+- Getting more Databricks, Cloud related & internal AI certifications.
+
 ### Databricks
 
 **Solutions Consultant, Solutions Architect** (via Datapao)
-*May 2022 - Present*
+*May 2022 - July 2025*
 *Remote, with clients across EMEA*
 
 I'm part of Databricks' Field Engineering Organization. My main purpose as a Solutions Consultant / Solutions Architect / Resident Solutions Architect is assisting Databricks Customers across various industries in achieving their Data & AI goals.
@@ -55,7 +66,7 @@ Worked with clients ranging from Startup to Enterprise scale, mainly from NL, UK
 ### Datapao
 
 **Data Engineer, ML Engineer**
-*February 2022 - Present*
+*February 2022 - July 2025*
 *Budapest, Hungary*
 
 Data Engineering & ML related projects and consultancy, primarily using the Databricks platform and Apache Spark on various cloud providers with Python and SQL.
@@ -116,6 +127,7 @@ Following the technical role at IBM, dedicated over a decade to specializing in 
 
 **Databricks**
 
+* Databricks Certified Generative AI Engineer Associatae (Issued Oct 2025)
 * Databricks Certified Data Engineer Professional (Issued Sep 2025)
 * Partner Training - Advantages of Data Intelligence & Interoperability with SAP (Issued Feb 2025)
 * Gen AI & LLM on Databricks - Pre-sales (Issued Oct 2024)

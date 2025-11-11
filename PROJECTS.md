@@ -122,6 +122,7 @@ This document outlines my most important professional & personal projects across
 
 ### Data Engineering
 
+- **[Databricks Certification Prep Guide](https://kasztp.github.io/dbx-exam-guide/)**: Started a Github page & repo to help with preparing for several Databricks Certifications.
 - **HASS Databricks**: Integration project for connecting Home Assistant (smart home automation) with Databricks for data processing and analytics.
 - **Databricks Exam Guide**: A comprehensive guide and study summary for Databricks certification exams, including tips and resources.
 
