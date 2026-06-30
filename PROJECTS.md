@@ -105,6 +105,7 @@ This document outlines my most important professional & personal projects across
 ---
 
 ## Open Source Contributions
+- [HACS](https://github.com/hacs/default/pull/7088) (April 17, 2026): Added HASS Databricks to the Home Assistant Community Store.
 - [Chispa PR #141](https://github.com/MrPowers/chispa/pull/141) (Oct 24, 2024): Added an ignore_columns option to dataframe_comparer.py to improve dataframe comparison flexibility in tests.
 - [Apache Spark PR #43190](https://github.com/apache/spark/pull/43190) (Oct 2, 2023): Fixed Python sample code in StreamingQueryListener docs (documentation fix).
 - [CodersRank Libraries PR #157](https://github.com/codersrank-org/libraries/pull/157) (Apr 12, 2023): Added PySpark support to CodersRank libraries repository.
@@ -122,7 +123,7 @@ This document outlines my most important professional & personal projects across
 
 ### Data Engineering
 
-- **HASS Databricks**: Integration project for connecting Home Assistant (smart home automation) with Databricks for data processing and analytics.
+- **[HASS Databricks](https://github.com/kasztp/hass_databricks)**: Integration project for connecting Home Assistant (smart home automation) with Databricks for data processing and analytics.
 - **[Databricks Exam Guide](https://kasztp.github.io/dbx-exam-guide/)**: A comprehensive guide and study summary for Databricks certification exams, including tips and resources.
 
 ### Webapps & API Experiments
